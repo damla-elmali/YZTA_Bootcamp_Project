@@ -1,6 +1,5 @@
 # YZTA_Bootcamp_Project
 
-Aşağıda verdiğin detaylı içeriği profesyonel ve okunabilir bir şekilde GitHub README dosyasına uygun biçimde düzenledim. Markdown formatında yazılmış bu versiyon, hem teknik izleyiciler hem de proje yöneticileri için anlaşılır ve etkili olacaktır:
 
 ---
 
@@ -97,5 +96,3 @@ Bu projenin temel amacı, kullanıcıların metin olarak girdiği semptom açık
 
 ---
 
-Dilersen bu yapıyı `README.md` dosyasına kopyalayabilir ya da proje klasörüne ekleyebilirim.
-İstersen ayrıca bir "Görseller", "Kurulum" veya "Katkıda Bulun" gibi bölümler de ekleyebilirim.
