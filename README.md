@@ -61,9 +61,27 @@ The goal of this project is to contribute to **early risk awareness** through AI
     <img src="https://github.com/user-attachments/assets/7553e125-1edb-4f51-b372-9e01aba58674" width="600"/>
   </details>
 
-</details>
+  <details>
+    <summary>📅 Sprint 1 - Daily Scrum Screenshots</summary>
+    <br/>
+    <!-- Aşağıya günlük scrum görüntülerini ekleyebilirsin -->
 
----
+![WhatsApp Görsel 2025-07-09 saat 23 05 29_ab6a7241](https://github.com/user-attachments/assets/085166d2-202e-4740-9925-51c713001340)
+
+![WhatsApp Görsel 2025-07-09 saat 23 05 29_2a7c1853](https://github.com/user-attachments/assets/2e24bf11-841f-48e9-aaab-b8069da50d96)
+
+![WhatsApp Görsel 2025-07-09 saat 23 06 31_07c73b5d](https://github.com/user-attachments/assets/40cfa5ae-485d-42f9-9b04-f9043a2cfe73)
+
+![WhatsApp Görsel 2025-07-09 saat 23 06 31_c628a016](https://github.com/user-attachments/assets/9fd7988b-1092-454b-9dbe-371dfd5a4d4a)
+
+![WhatsApp Görsel 2025-07-09 saat 23 05 29_a8f264ba](https://github.com/user-attachments/assets/76016341-2b5e-4f03-909b-1ec0fb8b8875)
+
+![WhatsApp Görsel 2025-07-09 saat 23 05 29_01af9e72](https://github.com/user-attachments/assets/bf2d4a06-2005-4ea8-8df9-e7612ab2dc3c)
+
+![WhatsApp Görsel 2025-07-09 saat 23 05 29_caaff263](https://github.com/user-attachments/assets/17ff0054-9df1-4a83-9e0f-9ee4384ce6eb)
+
+
+</details>
 
 ## 📝 Sprint Notes
 
