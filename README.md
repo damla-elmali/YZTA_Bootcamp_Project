@@ -1,98 +1,143 @@
-# YZTA_Bootcamp_Project
+# 🎯 YZTA_Bootcamp_Project
+
+![WhatsApp Görsel 2025-07-09 saat 21 32 03_0463b9d9](https://github.com/user-attachments/assets/cf87c98c-69fc-4adb-b0ce-2bcfbd14d630)
+
+
+## 🤖 SympTrack: AI-Powered Symptom Monitoring and Risk Classification System
+
+SympTrack is an AI-driven health assistant that analyzes user-reported symptoms using Natural Language Processing (NLP) techniques to assess their potential health risks. The system categorizes user input into **low**, **medium**, or **high** risk levels and provides relevant guidance based on medical context.
+
+The goal of this project is to contribute to **early risk awareness** through AI-supported insights — especially in scenarios where access to healthcare professionals might be delayed.
+
+---
+
+## 👥 Team Members - HealthGPT
+
+| Name                 | Title         | LinkedIn                                                                                                                                                                                                          |
+| -------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Damla Elmalı         | Scrum Master  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damla-elmali/)                                                                               |
+| Ömer Faruk Baltacı   | Product Owner | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerfbaltaci/) |
+| Kadir Akyürek        | Developer     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/damla-elmali/](https://www.linkedin.com/in/kadir-aky%C3%BCrek-847199246?trk=contact-info ))                                                                               |
+| Murat Tekin Ulunisan | Developer     |  https://www.linkedin.com/in/muatr/                                                                                                                                                                                                                 |
+| İsmail Aykurt        | Developer     | https://www.linkedin.com/in/ismail-aykurt                                                                                                                                                                                                                  |
+
+---
+
+## 🎯 Target Audience
+
+- Individuals who experience symptoms but have limited access to healthcare professionals.
+- People who want early insights into possible health risks.
+- Developers and researchers working on healthcare-related AI solutions.
+- Health-tech startups or academic teams exploring AI-NLP applications.
+
+---
+![image](https://github.com/user-attachments/assets/f4f9751e-604b-489e-9281-53306f5e2606)
+
+## 🗓️ Sprints
+
+<details>
+  <summary>🏁 Sprint 1 - Click to Expand</summary>
+
+  <br/>
+
+  <details>
+    <summary>🖼️ Sprint 1 - App Screenshots</summary>
+    <br/>
+
+![WhatsApp Görsel 2025-07-09 saat 21 32 03_0463b9d9](https://github.com/user-attachments/assets/cf87c98c-69fc-4adb-b0ce-2bcfbd14d630)
+
+  </details>
+
+  <details>
+    <summary>🗂️ Sprint 1 - Sprint Board Update Screenshots</summary>
+    <br/>
+
+![image](https://github.com/user-attachments/assets/df948179-e2cf-42cb-874f-4686c461a23f)
+
+![image](https://github.com/user-attachments/assets/b94f5d0a-f1f2-46d7-b80a-b4f1600ff5f8)
+
+
+
+![image](https://github.com/user-attachments/assets/693298fa-7adb-41ec-9079-a4fbb956f8ed)
+
+
+  </details>
+
+  <details>
+    <summary>📉 Sprint 1 - Burndown Chart</summary>
+    <br/>
+						
+![image](https://github.com/user-attachments/assets/492536b2-cde0-4dca-9594-1ab3a398094f)
+![image](https://github.com/user-attachments/assets/7553e125-1edb-4f51-b372-9e01aba58674)
+
+
+  </details>
+
+</details>
+
+---
+
+## 📝 Sprint Notes
+
+- Following team restructuring, the team was officially formed on **June 28, 2025**.
+- Due to internships and other workload, Sprint 1 focused on:
+  - Market research
+  - Dataset discovery and analysis
+  - Critical architectural decisions
+  - NLP model comparisons and selection
+
+### ✅ Key Decisions & Activities
+
+- Trello selected for task management
+- Hugging Face explored for medical datasets
+- Dataset selected: [`HealthRisk-1500`](https://huggingface.co/datasets/lvimuth/HealthRisk-1500-Medical-Risk-Prediction)
+- `Risk_Level` set as the classification target
+- EDA performed on features like `Symptoms`, `Medical_History`, `Diagnosis`
+- BERT-based NLP model selected
+- Tokenization and preprocessing steps drafted
+
+---
+
+### 📈 Sprint Metrics
+
+| Metric               | Value |
+|----------------------|-------|
+| Expected Story Points | 150   |
+| Completed Points      | 150    |
 
 
 ---
 
-# 📌 SympTrack: AI Destekli Semptom Takip ve Risk Sınıflandırma Sistemi
+## ✅ Sprint Review
 
-## 🎯 Proje Amacı
-
-Bu projenin temel amacı, kullanıcıların metin olarak girdiği semptom açıklamalarını analiz ederek sağlık riski seviyesini belirlemek ve uygun öneriler sunmaktır. Doğal dil işleme (NLP) teknikleri kullanılarak semptomlar; **düşük**, **orta** ve **yüksek** risk kategorilerine sınıflandırılır.
+During Sprint 1, the team laid a solid foundation by focusing on research and planning. The dataset was selected and evaluated, and the team aligned on using a **BERT-based NLP model**. Communication was handled through WhatsApp, and tasks were tracked using Trello. The groundwork was successfully established for the next sprint.
 
 ---
 
-## 🧠 Veri Bilimi - Sprint 1
+## 👥 Sprint Review Participants
 
-### ✅ Gerçekleştirilenler
-
-* **Veri seti tespiti:** Hugging Face üzerinde bulunan, hasta semptomları, tıbbi geçmiş ve ilaç bilgilerini içeren veri seti seçildi ve kullanıma hazır hale getirildi.
-* **Veri seti analizi:** Aşağıdaki sütunlar detaylıca incelendi:
-
-  * `Age`, `Gender`, `Symptoms`, `Medical_History`, `Medications`, `Lifestyle`, `Doctor_Notes`, `Diagnosis`, `Risk_Level`
-* **Etiket sütunu belirlendi:** `Risk_Level`, sınıflandırma modeli için hedef değişken olarak seçildi.
-* **Veri anlamlandırma çalışmaları:** Semptomlar ve yaşam alışkanlıkları ile risk seviyeleri arasındaki ilişkiler üzerine ilk analizler yapıldı.
-* **Model yaklaşımı netleşti:** NLP tabanlı BERT modeline geçmeden önce veri temizleme ve etiketleme süreçleri planlandı.
-
----
-
-## 📋 Sprint Notları
-
-* `User Story`ler product backlog’a yazıldı ve önceliklendirildi.
-* Sprint 1 süresince özellikle **veri keşfi, temizlik ve ön işleme** adımlarına odaklanıldı.
-
----
-
-## 📊 Sprint Puanlaması
-
-**Hedeflenen Toplam Puan:** `100`
-
-| Görev                                  | Puan    |
-| -------------------------------------- | ------- |
-| Veri setinin bulunması ve analizi      | 15      |
-| Sütunların sınıflandırılması           | 10      |
-| Hedef değişkenin belirlenmesi          | 5       |
-| Kategorik değişken analizleri          | 10      |
-| Medikal içerik değerlendirmesi         | 10      |
-| Risk seviyelerinin dağılım analizi     | 10      |
-| Veri temizlik stratejisi oluşturulması | 20      |
-| NLP model yaklaşımı seçimi (BERT)      | 20      |
-| **Toplam**                             | **100** |
-
-> Not: Backlog toplam 300 puan olarak planlanmıştır. Sprint 1, temel hazırlık süreci olarak değerlendirilmiş ve bu nedenle 100 puan hedeflenmiştir.
-
----
-
-## 🗓 Daily Scrum
-
-* Daily Scrum toplantıları **her 3 günde bir, saat 20:00'de** WhatsApp üzerinden **yazılı olarak** gerçekleştirilmiştir.
-
----
-
-## 🖥 Ürün Durumu - Sprint 1 Sonu
-
-* Veri seti hazırlandı, analiz edildi ve hedef değişken belirlendi.
-* Proje için BERT tabanlı bir NLP modelinin uygun olacağına karar verildi.
-* Bir sonraki sprintte embedding üretimi ve ilk model eğitimi yapılacaktır.
-
----
-
-## 🔍 Sprint Review
-
-* Sprint kapsamında planlanan görevler başarıyla tamamlandı.
-* Tüm ekip üyeleri sürece aktif katkı sağladı.
-* Veri setinin kapsamı ve içeriği, proje için anlamlı çıktıların elde edilmesine olanak sağladı.
+- Damla Elmalı – Scrum Master  
+- Ömer Faruk Baltacı – Product Owner  
+- Kadir Akyürek – Developer  
+- Murat Tekin Ulunisan – Developer  
+- İsmail Aykurt – Developer
 
 ---
 
 ## 🔄 Sprint Retrospective
 
-### ✅ İyi Gidenler
+### ✅ What Went Well:
+- Clear role division post-restructuring
+- Good team coordination despite internships
+- Dataset and model decisions completed
 
-* Ekip, veri bilimi süreçlerinde ortak bir yön belirledi.
-* Görevler zamanında ve eksiksiz tamamlandı.
+### 🧠 What Could Be Improved:
+- Better documentation of EDA findings
+- More precise time estimation for preprocessing
+- Earlier visualization of key insights
 
-### 🛠️ Geliştirilecek Noktalar
-
-* BERT entegrasyonu öncesi deneme amaçlı mini testler yapılmalı.
-* Veri seti açıklamaları daha detaylı dokümante edilmeli.
-
----
-
-## 🚀 Bir Sonraki Sprintte Hedefler (Sprint 2 Preview)
-
-* `Symptoms` metinleri BERT tokenizer ile işlenecek.
-* Hugging Face üzerinden uygun model çağrılacak ve denemeler yapılacak.
-* İlk sınıflandırma modeli eğitilecek ve performansı değerlendirilecek.
-
----
-
+### 🚀 Action Items for Sprint 2:
+- Start BERT tokenizer and embedding processes
+- Train and evaluate baseline model
+- Add visual outputs (e.g. confusion matrix)
+- Improve documentation of preprocessing steps
