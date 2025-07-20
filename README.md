@@ -35,114 +35,181 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
 ## 🗓️ Sprints
 
+---
+
+### 🏁 Sprint 1
+
 <details>
-  <summary>🏁 Sprint 1 - Click to Expand</summary>
+  <summary>🖼️ App Screenshots</summary>
 
-  <br/>
-
-  <details>
-    <summary>🖼️ Sprint 1 - App Screenshots</summary>
-    <br/>
-    <img src="https://github.com/user-attachments/assets/cf87c98c-69fc-4adb-b0ce-2bcfbd14d630" width="600"/>
-  </details>
-
-  <details>
-    <summary>🗂️ Sprint 1 - Sprint Board Update Screenshots</summary>
-    <br/>
-    <img src="https://github.com/user-attachments/assets/df948179-e2cf-42cb-874f-4686c461a23f" width="600"/>
-    <img src="https://github.com/user-attachments/assets/b94f5d0a-f1f2-46d7-b80a-b4f1600ff5f8" width="600"/>
-    <img src="https://github.com/user-attachments/assets/693298fa-7adb-41ec-9079-a4fbb956f8ed" width="600"/>
-  </details>
-
-  <details>
-    <summary>📉 Sprint 1 - Burndown Chart</summary>
-    <br/>
-    <img src="https://github.com/user-attachments/assets/492536b2-cde0-4dca-9594-1ab3a398094f" width="600"/>
-    <img src="https://github.com/user-attachments/assets/7553e125-1edb-4f51-b372-9e01aba58674" width="600"/>
-  </details>
-
-  <details>
-    <summary>📅 Sprint 1 - Daily Scrum Screenshots</summary>
-    <br/>
-    <!-- Aşağıya günlük scrum görüntülerini ekleyebilirsin -->
-
-![WhatsApp Görsel 2025-07-09 saat 23 05 29_ab6a7241](https://github.com/user-attachments/assets/085166d2-202e-4740-9925-51c713001340)
-
-![WhatsApp Görsel 2025-07-09 saat 23 05 29_2a7c1853](https://github.com/user-attachments/assets/2e24bf11-841f-48e9-aaab-b8069da50d96)
-
-![WhatsApp Görsel 2025-07-09 saat 23 06 31_07c73b5d](https://github.com/user-attachments/assets/40cfa5ae-485d-42f9-9b04-f9043a2cfe73)
-
-![WhatsApp Görsel 2025-07-09 saat 23 06 31_c628a016](https://github.com/user-attachments/assets/9fd7988b-1092-454b-9dbe-371dfd5a4d4a)
-
-![WhatsApp Görsel 2025-07-09 saat 23 05 29_a8f264ba](https://github.com/user-attachments/assets/76016341-2b5e-4f03-909b-1ec0fb8b8875)
-
-![WhatsApp Görsel 2025-07-09 saat 23 05 29_01af9e72](https://github.com/user-attachments/assets/bf2d4a06-2005-4ea8-8df9-e7612ab2dc3c)
-
-![WhatsApp Görsel 2025-07-09 saat 23 05 29_caaff263](https://github.com/user-attachments/assets/17ff0054-9df1-4a83-9e0f-9ee4384ce6eb)
-
+  <img src="https://github.com/user-attachments/assets/cf87c98c-69fc-4adb-b0ce-2bcfbd14d630" width="600"/>
 
 </details>
 
-## 📝 Sprint Notes
+<details>
+  <summary>🗂️ Sprint Board</summary>
 
-- Following team restructuring, the team was officially formed on **June 28, 2025**.
-- Due to internships and other workload, Sprint 1 focused on:
+  <img src="https://github.com/user-attachments/assets/df948179-e2cf-42cb-874f-4686c461a23f" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b94f5d0a-f1f2-46d7-b80a-b4f1600ff5f8" width="600"/>
+  <img src="https://github.com/user-attachments/assets/693298fa-7adb-41ec-9079-a4fbb956f8ed" width="600"/>
+
+</details>
+
+<details>
+  <summary>📉 Burndown Chart</summary>
+
+  <img src="https://github.com/user-attachments/assets/492536b2-cde0-4dca-9594-1ab3a398094f" width="600"/>
+  <img src="https://github.com/user-attachments/assets/7553e125-1edb-4f51-b372-9e01aba58674" width="600"/>
+
+</details>
+
+<details>
+  <summary>📅 Daily Scrums</summary>
+
+  ![Scrum Screens](https://github.com/user-attachments/assets/085166d2-202e-4740-9925-51c713001340)
+  <!-- Devamı yukarıda olduğu gibi -->
+
+</details>
+
+### 📝 Sprint 1 Notes
+
+- Team was officially formed on **June 28, 2025**.
+- Sprint 1 focused on:
   - Market research
   - Dataset discovery and analysis
-  - Critical architectural decisions
-  - NLP model comparisons and selection
+  - Key architectural decisions
+  - NLP model selection and comparison
 
-### ✅ Key Decisions & Activities
+#### ✅ Key Activities
 
-- Trello selected for task management  
-- Hugging Face explored for medical datasets  
-- Dataset selected: [`HealthRisk-1500`](https://huggingface.co/datasets/lvimuth/HealthRisk-1500-Medical-Risk-Prediction)  
-- `Risk_Level` set as the classification target  
-- EDA performed on features like `Symptoms`, `Medical_History`, `Diagnosis`  
-- BERT-based NLP model selected  
-- Tokenization and preprocessing steps drafted  
+- Trello selected as project management tool  
+- Medical dataset selected from Hugging Face: [`HealthRisk-1500`](https://huggingface.co/datasets/lvimuth/HealthRisk-1500-Medical-Risk-Prediction)  
+- Risk_Level chosen as classification target  
+- EDA done on major fields  
+- BERT model selected  
 
----
-
-### 📈 Sprint Metrics
+#### 📈 Metrics
 
 | Metric                 | Value |
 |------------------------|-------|
 | Expected Story Points  | 150   |
 | Completed Story Points | 150   |
 
+#### ✅ Sprint 1 Review
+
+- Dataset and model decisions made  
+- Clear role division  
+- Communication handled via WhatsApp  
+- Trello actively used
+
+#### 🔄 Sprint 1 Retrospective
+
+**What Went Well**
+- Clear role division  
+- Team adapted well despite internship overlaps  
+- Research and base planning successfully completed  
+
+**What Could Be Improved**
+- More detailed documentation of data insights  
+- Earlier visualization could have helped  
+- Better time estimates for preprocessing  
+
+**Action Items**
+- Begin tokenizer & embeddings  
+- Train and validate initial model  
+- Visualize outputs  
+- Improve preprocessing documentation  
+
 ---
 
-## ✅ Sprint Review
+### 🏁 Sprint 2
 
-During Sprint 1, the team laid a solid foundation by focusing on research and planning. The dataset was selected and evaluated, and the team aligned on using a **BERT-based NLP model**. Communication was handled through WhatsApp, and tasks were tracked using Trello. The groundwork was successfully established for the next sprint.
+<details>
+  <summary>🖼️ App Screenshots</summary>
 
----
+  ![Screen1](https://github.com/user-attachments/assets/edd1538a-cbc6-4f59-a97d-bd1729eaf8e4)
+  ![Screen2](https://github.com/user-attachments/assets/79560d79-fb8e-49e1-a953-d34041dcb535)
+  ![Screen3](https://github.com/user-attachments/assets/d856e28d-d3c6-4eb4-be0f-02c8dbbd0c4c)
+  ![Screen4](https://github.com/user-attachments/assets/2ca67a5b-5f63-4b03-957b-a89ed75415ca)
+  <img width="1252" height="612" alt="image" src="https://github.com/user-attachments/assets/1cc09f97-3b5a-40a8-9fd5-636f176b10c9" />
 
-## 👥 Sprint Review Participants
+</details>
+
+<details>
+  <summary>🗂️ Sprint Board</summary>
+
+  <img width="1366" height="559" alt="image" src="https://github.com/user-attachments/assets/97a3fdbf-1b44-4663-af8e-1e4a5c2a9eb1" />
+
+</details>
+
+<details>
+  <summary>📉 Burndown Chart</summary>
+
+  <img width="230" height="526" alt="image" src="https://github.com/user-attachments/assets/8afd27fc-51bf-4316-a2b6-6e680dc9af04" />
+
+</details>
+
+<details>
+  <summary>📅 Daily Scrums</summary>
+
+  ![Scrum1](https://github.com/user-attachments/assets/6cafd0ce-49ec-4e99-9ae4-089455045c58)
+  ![Scrum2](https://github.com/user-attachments/assets/f639511a-e73b-4a66-a0bb-f4f5765f5056)
+  ![Scrum3](https://github.com/user-attachments/assets/4d1bc3ec-fcc7-4c39-bfd5-8745bfe433fc)
+  ![Scrum4](https://github.com/user-attachments/assets/a9bf91e6-1149-4a0d-b6be-dd90ae2edb75)
+  ![Scrum5](https://github.com/user-attachments/assets/9804be00-d968-4e1a-b562-d014d72a3913)
+  ![Scrum6](https://github.com/user-attachments/assets/4a7c95c7-64de-4fd8-b3c3-049b1dc5ba2e)
+
+</details>
+
+### 📝 Sprint 2 Notes
+
+#### ✅ Key Activities
+
+- Frontend built (Home, Chat, Summary)
+- Backend endpoints implemented
+- LLM integration tested on Chat page
+- Auth and registration logic added
+- Model loading setup with `chatbot.py`, `symptoms.py`, and `models.py`
+
+#### 📈 Metrics
+
+| Metric                 | Value |
+|------------------------|-------|
+| Expected Story Points  | 100   |
+| Completed Story Points | 100   |
+
+#### ✅ Sprint 2 Review
+
+- Application UI largely functional  
+- User flow established  
+- Core logic implemented  
+- Backend linked to frontend successfully  
+
+#### 👥 Sprint 2 Review Participants
 
 - Damla Elmalı – Scrum Master  
 - Ömer Faruk Baltacı – Product Owner  
 - Kadir Akyürek – Developer  
 - Murat Tekin Ulunisan – Developer  
-- İsmail Aykurt – Developer
 
----
+#### 🔄 Sprint 2 Retrospective
 
-## 🔄 Sprint Retrospective
+**What Went Well:**
+- Frontend/backend integration progressed smoothly  
+- Chat functionality connected to LLM  
+- Team managed clear division of tasks  
+- Key Python modules were implemented  
+- User registration & login were completed  
 
-### ✅ What Went Well:
-- Clear role division post-restructuring  
-- Good team coordination despite internships  
-- Dataset and model decisions completed  
+**What Could Be Improved:**
+- Gemini integration (NLP module) is still incomplete  
+- Model testing came too late in the sprint  
+- Review step in Trello wasn’t used effectively  
+- Codebase needs more comments and inline documentation  
 
-### 🧠 What Could Be Improved:
-- Better documentation of EDA findings  
-- More precise time estimation for preprocessing  
-- Earlier visualization of key insights  
-
-### 🚀 Action Items for Sprint 2:
-- Start BERT tokenizer and embedding processes  
-- Train and evaluate baseline model  
-- Add visual outputs (e.g., confusion matrix)  
-- Improve documentation of preprocessing steps  
+**Action Items for Sprint 3:**
+- Finalize Gemini (AI/NLP) integration  
+- Improve model outputs & explainability  
+- Actively enforce review phase in Trello  
+- Add detailed documentation + notebooks  
+- Test model thoroughly with diverse inputs  
