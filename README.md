@@ -150,7 +150,7 @@ The goal of this project is to contribute to **early risk awareness** through AI
   <details>
     <summary>Show</summary>
     <img width="230" height="526" src="https://github.com/user-attachments/assets/8afd27fc-51bf-4316-a2b6-6e680dc9af04"/>
-    <img width="854" height="435" alt="image" src="https://github.com/user-attachments/assets/e935806c-6072-4f11-b5bb-96ef8e168dc8" />
+    <img width="790" height="425" alt="image" src="https://github.com/user-attachments/assets/2a9c919a-75ad-4272-8864-4217624de199" />
     <img width="880" height="636" alt="image" src="https://github.com/user-attachments/assets/d4226823-c568-4e5d-8d49-50fef52a669a" />
 
   </details>
