@@ -222,3 +222,94 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
 </details>
 
+------
+
+<details>
+  <summary>🏁 Sprint 3 - Click to Expand</summary>
+
+# 🎓 EduSona: Interactive E-Learning Platform for Personalized Education
+
+EduSona is a modern, AI-enhanced e-learning platform designed to deliver personalized educational experiences. It supports interactive course content, adaptive learning paths, and real-time feedback to maximize learner engagement and success.
+
+The platform integrates AI-driven recommendation systems and analytics to tailor courses to individual student needs, making education more accessible and effective.
+
+---
+
+## 🖼️ App Screenshots
+
+<details>
+  <summary>Show</summary>
+  
+<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/a2935fd2-9459-4ce4-9470-cb239c772206" />
+
+<img width="958" height="906" alt="image" src="https://github.com/user-attachments/assets/5f6d238c-f628-41b5-8bba-c318aa28112b" />
+
+<img width="891" height="897" alt="image" src="https://github.com/user-attachments/assets/de1444eb-482f-4e4a-8451-3b887ab6fa04" />
+
+<img width="921" height="901" alt="image" src="https://github.com/user-attachments/assets/246430c8-01de-4892-a79c-99279e73b4a0" />
+
+
+<img width="913" height="901" alt="image" src="https://github.com/user-attachments/assets/bb174988-c67d-400b-9ca8-c6d84133c4a8" />
+
+
+
+</details>
+
+---
+
+## 🗂️ Sprint Board
+
+<details>
+  <summary>Show</summary>
+  
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/dc7f227c-8e04-4f80-9b5b-ca5cbeb23348" />
+
+
+
+</details>
+
+---
+
+## 📉 Burndown Chart
+
+<details>
+  <summary>Show</summary>
+  
+  ![Burndown Chart](https://github.com/user-attachments/assets/your-eds-burndown.png)
+</details>
+
+---
+
+## 📅 Daily Scrums
+
+<details>
+  <summary>Show</summary>
+
+
+  <img width="1265" height="833" alt="image" src="https://github.com/user-attachments/assets/7fe06289-f8ca-45fd-b95d-77aab71050aa" />
+
+
+<img width="1262" height="649" alt="image" src="https://github.com/user-attachments/assets/0a8c3679-1b2b-4bf4-883d-32de666a2b58" />
+
+
+<img width="1260" height="828" alt="image" src="https://github.com/user-attachments/assets/af2bf500-cba6-42ba-9d0b-f2da699c782c" />
+
+
+</details>
+
+---
+
+## 📝 Sprint 3 Notes
+
+- Project pivoted from **SympTrack** to **EduSona** (July 2025).  
+- Focus areas for Sprint 3:  
+  - Designed new architecture for the education platform  
+  - Redesigned frontend with React from scratch  
+  - Rebuilt backend APIs for content and user management  
+  - Integrated foundational AI recommendation algorithms  
+  - Improved user experience and UI components  
+
+
+
+</details>
+
