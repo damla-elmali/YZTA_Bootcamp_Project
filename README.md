@@ -274,8 +274,9 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
 
 <details>
   <summary>Show</summary>
-  
-  ![Burndown Chart](https://github.com/user-attachments/assets/your-eds-burndown.png)
+<img width="1166" height="238" alt="image" src="https://github.com/user-attachments/assets/ec28cd3c-72b1-416b-b91a-c1f6affe7dab" />
+
+
 </details>
 
 ---
