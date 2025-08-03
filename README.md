@@ -276,6 +276,11 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
   <summary>Show</summary>
 <img width="1166" height="238" alt="image" src="https://github.com/user-attachments/assets/ec28cd3c-72b1-416b-b91a-c1f6affe7dab" />
 
+<img width="465" height="335" alt="Ekran Resmi 2025-08-03 22 33 18" src="https://github.com/user-attachments/assets/230c70ea-4729-4171-ab37-b544b38d6b47" />
+
+<img width="506" height="278" alt="image" src="https://github.com/user-attachments/assets/56ff9ede-3594-4915-8982-6039576c06b0" />
+
+
 
 </details>
 
