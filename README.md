@@ -1,12 +1,12 @@
-# 🎯 YZTA_Bootcamp_Project
+# 🎯 YZTA_Bootcamp_Project : EduSona
 
-![SympTrack Banner](https://github.com/user-attachments/assets/cf87c98c-69fc-4adb-b0ce-2bcfbd14d630)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cbd55fdb-c6c0-4807-ac28-9658679f6c08" />
 
-## 🤖 SympTrack: AI-Powered Symptom Monitoring and Risk Classification System
+## EduSona: Interactive E-Learning Platform for Personalized Education
 
-SympTrack is an AI-driven health assistant that analyzes user-reported symptoms using Natural Language Processing (NLP) techniques to assess their potential health risks. The system categorizes user input into **low**, **medium**, or **high** risk levels and provides relevant guidance based on medical context.
+EduSona is a modern, AI-enhanced e-learning platform designed to deliver personalized educational experiences. It supports interactive course content, adaptive learning paths, and real-time feedback to maximize learner engagement and success.
 
-The goal of this project is to contribute to **early risk awareness** through AI-supported insights — especially in scenarios where access to healthcare professionals might be delayed.
+The platform integrates AI-driven recommendation systems and analytics to tailor courses to individual student needs, making education more accessible and effective.
 
 ---
 
@@ -17,21 +17,22 @@ The goal of this project is to contribute to **early risk awareness** through AI
 | Damla Elmalı         | Scrum Master  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damla-elmali/) |
 | Ömer Faruk Baltacı   | Product Owner | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omerfbaltaci/) |
 | Kadir Akyürek        | Developer     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-akyürek-847199246/) |
-| Murat Tekin Ulunisan | Developer     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muatr/) |
-| İsmail Aykurt        | Developer     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-aykurt) |
 
 ---
 
 ## 🎯 Target Audience
 
-- Individuals who experience symptoms but have limited access to healthcare professionals  
-- People who want early insights into possible health risks  
-- Developers and researchers working on healthcare-related AI solutions  
-- Health-tech startups or academic teams exploring AI-NLP applications  
+- **Students of all levels** seeking personalized and adaptive learning experiences.  
+- **Educators and trainers** wanting to design interactive courses with real-time analytics.  
+- **Educational institutions** aiming to implement scalable e-learning solutions.  
+- **Lifelong learners** who prefer flexible and AI-driven course recommendations.  
+- **Corporate training departments** for employee skill development and upskilling.
+
+The platform is designed to be intuitive for users with varying degrees of technical proficiency and focuses on increasing accessibility and engagement through AI-powered customization.
 
 ---
 
-![Sprints Banner](https://github.com/user-attachments/assets/f4f9751e-604b-489e-9281-53306f5e2606)
+<img width="1024" height="335" alt="491770c9-4753-4c07-aabb-168aa2714eb4" src="https://github.com/user-attachments/assets/cb2af579-1f3f-4522-b0a7-0c5a6c610657" />
 
 ## 🗓️ Sprints
 
@@ -73,12 +74,12 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
   ### 📝 Sprint 1 Notes
 
-  - Team was officially formed on **June 28, 2025**.
-  - Sprint 1 focused on:
-    - Market research
-    - Dataset discovery and analysis
-    - Key architectural decisions
-    - NLP model selection and comparison
+  - Team was officially formed on **June 28, 2025**.  
+  - Sprint 1 focused on:  
+    - Market research  
+    - Dataset discovery and analysis  
+    - Key architectural decisions  
+    - NLP model selection and comparison  
 
   #### ✅ Key Activities
 
@@ -104,17 +105,17 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
   #### 🔄 Sprint 1 Retrospective
 
-  **What Went Well**
+  **What Went Well**  
   - Clear role division  
   - Team adapted well despite internship overlaps  
   - Research and base planning successfully completed  
 
-  **What Could Be Improved**
+  **What Could Be Improved**  
   - More detailed documentation of data insights  
   - Earlier visualization could have helped  
   - Better time estimates for preprocessing  
 
-  **Action Items**
+  **Action Items**  
   - Begin tokenizer & embeddings  
   - Train and validate initial model  
   - Visualize outputs  
@@ -171,11 +172,11 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
   #### ✅ Key Activities
 
-  - Frontend built (Home, Chat, Summary)
-  - Backend endpoints implemented
-  - LLM integration tested on Chat page
-  - Auth and registration logic added
-  - Model loading setup with `chatbot.py`, `symptoms.py`, and `models.py`
+  - Frontend built (Home, Chat, Summary)  
+  - Backend endpoints implemented  
+  - LLM integration tested on Chat page  
+  - Auth and registration logic added  
+  - Model loading setup with `chatbot.py`, `symptoms.py`, and `models.py`  
 
   #### 📈 Metrics
 
@@ -200,20 +201,20 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
   #### 🔄 Sprint 2 Retrospective
 
-  **What Went Well:**
+  **What Went Well:**  
   - Frontend/backend integration progressed smoothly  
   - Chat functionality connected to LLM  
   - Team managed clear division of tasks  
   - Key Python modules were implemented  
   - User registration & login were completed  
 
-  **What Could Be Improved:**
+  **What Could Be Improved:**  
   - Gemini integration (NLP module) is still incomplete  
   - Model testing came too late in the sprint  
   - Review step in Trello wasn’t used effectively  
   - Codebase needs more comments and inline documentation  
 
-  **Action Items for Sprint 3:**
+  **Action Items for Sprint 3:**  
   - Finalize Gemini (AI/NLP) integration  
   - Improve model outputs & explainability  
   - Actively enforce review phase in Trello  
@@ -222,16 +223,10 @@ The goal of this project is to contribute to **early risk awareness** through AI
 
 </details>
 
-------
+---
 
 <details>
   <summary>🏁 Sprint 3 - Click to Expand</summary>
-
-# 🎓 EduSona: Interactive E-Learning Platform for Personalized Education
-
-EduSona is a modern, AI-enhanced e-learning platform designed to deliver personalized educational experiences. It supports interactive course content, adaptive learning paths, and real-time feedback to maximize learner engagement and success.
-
-The platform integrates AI-driven recommendation systems and analytics to tailor courses to individual student needs, making education more accessible and effective.
 
 ---
 
@@ -248,11 +243,7 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
 
 <img width="921" height="901" alt="image" src="https://github.com/user-attachments/assets/246430c8-01de-4892-a79c-99279e73b4a0" />
 
-
 <img width="913" height="901" alt="image" src="https://github.com/user-attachments/assets/bb174988-c67d-400b-9ca8-c6d84133c4a8" />
-
-
-
 </details>
 
 ---
@@ -264,7 +255,7 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
   
 <img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/dc7f227c-8e04-4f80-9b5b-ca5cbeb23348" />
 
-
+<img width="1919" height="774" alt="image" src="https://github.com/user-attachments/assets/4f6211ca-3d99-43bd-959f-f31fb0e9bd89" />
 
 </details>
 
@@ -279,9 +270,6 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
 <img width="465" height="335" alt="Ekran Resmi 2025-08-03 22 33 18" src="https://github.com/user-attachments/assets/230c70ea-4729-4171-ab37-b544b38d6b47" />
 
 <img width="506" height="278" alt="image" src="https://github.com/user-attachments/assets/56ff9ede-3594-4915-8982-6039576c06b0" />
-
-
-
 </details>
 
 ---
@@ -291,35 +279,57 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
 <details>
   <summary>Show</summary>
 
-
   <img width="1265" height="833" alt="image" src="https://github.com/user-attachments/assets/7fe06289-f8ca-45fd-b95d-77aab71050aa" />
 
+  <img width="1262" height="649" alt="image" src="https://github.com/user-attachments/assets/0a8c3679-1b2b-4bf4-883d-32de666a2b58" />
 
-<img width="1262" height="649" alt="image" src="https://github.com/user-attachments/assets/0a8c3679-1b2b-4bf4-883d-32de666a2b58" />
+  <img width="1255" height="486" alt="image" src="https://github.com/user-attachments/assets/0662449a-3d78-451b-a3ef-253bb4c4667b" />
 
-
-<img width="1255" height="486" alt="image" src="https://github.com/user-attachments/assets/0662449a-3d78-451b-a3ef-253bb4c4667b" />
-
-
-<img width="1260" height="828" alt="image" src="https://github.com/user-attachments/assets/af2bf500-cba6-42ba-9d0b-f2da699c782c" />
-
-
-
+  <img width="1260" height="828" alt="image" src="https://github.com/user-attachments/assets/af2bf500-cba6-42ba-9d0b-f2da699c782c" />
 </details>
 
 ---
 
 ## 📝 Sprint 3 Notes
 
-- Project pivoted from **SympTrack** to **EduSona** (July 2025).  
-- Focus areas for Sprint 3:  
-  - Designed new architecture for the education platform  
-  - Redesigned frontend with React from scratch  
-  - Rebuilt backend APIs for content and user management  
-  - Integrated foundational AI recommendation algorithms  
-  - Improved user experience and UI components  
+#### 📈 Metrics
 
+| Metric                 | Value |
+|------------------------|-------|
+| Expected Story Points  | 100   |
+| Completed Story Points | 100   |
 
+#### 👥 Sprint 3 Review Participants
+
+- Damla Elmalı – Scrum Master  
+- Ömer Faruk Baltacı – Product Owner  
+- Kadir Akyürek – Developer  
+
+### 📋 Sprint 3 Summary
+
+- The project pivoted from **SympTrack** (medical symptom tracking) to **EduSona** (personalized education platform) in July 2025.  
+- Dataset for medical risk prediction provided only ~32% accuracy despite extensive preprocessing and experimentation, indicating that continuing on the same dataset was inefficient.  
+- Finding a novel and suitable dataset aligned with initial health domain idea proved difficult.  
+- Decided to pivot to a project better aligned with the team's expertise and goals.  
+- Redesigned frontend completely using React.  
+- Rebuilt backend APIs for managing courses, users, and content.  
+- Integrated AI recommendation algorithms to personalize learning paths.  
+- Enhanced overall user experience and UI components.
+
+### ✅ Retrospective
+
+**What Went Well:**  
+- Quick analysis and resolution of project challenges during pivot.  
+- Successful transition to a new project scope and tech stack.  
+- Good team collaboration and role adaptation.
+
+**What Could Be Improved:**  
+- Some team members contributed less during the pivot phase.  
+- Key feature — user preferences saving — remains incomplete.  
+- Time management could have been more efficient.  
+- Due to team availability and scheduling constraints, team cohesion was not at its best. Teamwork and collaboration could have been stronger.
+
+**Summary:**  
+Sprint 3 marked a fresh start with a shift in project focus and scope. Despite the challenges this brought, the team’s solidarity and swift decision-making laid the foundation for the project. With further development, a more complex and feature-rich platform can be built. Given the current state of the project, we — the three remaining active team members — are satisfied with our progress and commitment.
 
 </details>
-
