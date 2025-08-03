@@ -297,7 +297,7 @@ The platform is designed to be intuitive for users with varying degrees of techn
 | Metric                 | Value |
 |------------------------|-------|
 | Expected Story Points  | 100   |
-| Completed Story Points | 100   |
+| Completed Story Points |  96   |
 
 #### 👥 Sprint 3 Review Participants
 
