@@ -292,7 +292,11 @@ The platform integrates AI-driven recommendation systems and analytics to tailor
 <img width="1262" height="649" alt="image" src="https://github.com/user-attachments/assets/0a8c3679-1b2b-4bf4-883d-32de666a2b58" />
 
 
+<img width="1255" height="486" alt="image" src="https://github.com/user-attachments/assets/0662449a-3d78-451b-a3ef-253bb4c4667b" />
+
+
 <img width="1260" height="828" alt="image" src="https://github.com/user-attachments/assets/af2bf500-cba6-42ba-9d0b-f2da699c782c" />
+
 
 
 </details>
